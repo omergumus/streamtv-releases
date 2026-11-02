@@ -1,0 +1,9 @@
+{
+  "version_name": "0.2.1",
+  "version_code": 3,
+  "apk_url": "https://github.com/omergumus/streamtv-releases/releases/download/android-v0.2.1/StreamTV-0.2.1.apk",
+  "sha256": "7670a8e76ff1de942da58828f4b0b5fb55ec8a344dc41a4ab3b1a248ad809c2b",
+  "size_bytes": 19295404,
+  "min_supported_code": 0,
+  "notes": "İlk sürüm"
+}
